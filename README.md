@@ -1,1 +1,1 @@
-# Arvore-Geradora-Minima-Trabalho-2
+# Arvore Geradora Minima - Trabalho 2
