@@ -46,9 +46,11 @@ Em ambos os codigos foi-se utilizado o algoritmo de Kruskal para computar a AGM
 > Codigo em Python
 
 ![nao encontrada](./img/trabalho-2-python.png)
+
 Feito em python algoritmo alcançou o tempo aceitavél
 
 > Codigo em C++
 
 ![nao encontrada](./img/trabalho-2-cpp.png)
+
 Ocorreu em tempo melhor, a "tradução" do código foi feita com auxílio do ChatGPT
