@@ -1,9 +1,11 @@
-# Arvore Geradora Minima 
+# Arvore Geradora Minima
 
-Trabalho 2 da disciplina CK0111 - Algoritmos em Grafos.<br>
-Docente: *Pablo Mayckon*.<br>
+Trabalho 2 da disciplina CK0111 - Algoritmos em Grafos.
+
+Docente: *Pablo Mayckon*.
 
 ---
+
 ## Escreva um programa que compute o peso de uma Árvore Geradora Mínima do grafo recebido como entrada
 
 ### 1. Formato da Entrada
@@ -37,4 +39,4 @@ A saída, fornecida através da saída padrão, tem que estar no formato ilustra
 
 ---
 
-## Sobre o Algoritmo:
+## Sobre o Algoritmo
